@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+.flush_success {
+    width: 100%;
+    padding-top: 28px;
+    padding-left: 2%;
+    padding-bottom: 28px;
+    margin-bottom: 15px;
+    color: #155724;
+    background-color: #d4edda;
+}
+
+.flush_error {
+    width: 100%;
+    padding-top: 28px;
+    padding-left: 2%;
+    padding-bottom: 28px;
+    margin-bottom: 15px;
+    color: #721c24;
+    background-color: #f8d7da;
+}
+
+#footer {
+    text-align: center;
+}
+footer {
+    height: 150px;
+    background-image: url("../img/footer-min.jpg");
+    background-repeat: repeat-x;
+}
+
+#login .container #login-row #login-column #login-box {
+  margin-top: 10px;
+  max-width: 600px;
+  height: 320px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 50px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+.login-text {
+    color:#198754;
+}
